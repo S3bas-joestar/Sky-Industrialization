@@ -1,25 +1,24 @@
 
-Installation information
-=======
+# Sky Industrialization
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+Sky Industrialization is an Addon mod for [Modern Industrialization](https://modrinth.com/mod/modern-industrialization) by Technic4n aiming to add recipes that make it possible to run a SkyBlock world.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+## Planned Features:
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+- Wood tier machines
+  - Wooden Sifter
+  - Wooden Sluice Box
+  - Wooden Drier
+  - Wooden Hand Crank
+  - Wooden Hopper
+ 
+- Early Game Ore Generation and Processing (still debating)
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+  - In the Crafting Grid you will be able to get certain metal nuggets by using a Sieve item, early game will be the usual Vanilla Minecraft ones (Gold, Iron...) and once you get your first bucket you will be able to access more recipes with MI's nuggets (Tin, Copper, Nickel, Silver...) 
+You can also get Coal this way
+
+  - Wooden Sluice Box, there really is not much to this one, you just right click with gravel and you get random nuggets.
+
+## Where to Find Me: 
+You can find me on Discord s3bas_08 (I have got a cute Sylveon pfp :D)
