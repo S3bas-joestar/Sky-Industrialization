@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+    "item": "minecraft:gravel"
+  }
+  ,
+
+    "M": {
+      "item": "skyindustrialization:mesh"
+    }
+  },
+
+  "pattern": [
+    "MG ",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_nugget"
+  }
+}

@@ -12,7 +12,8 @@ public class ModItems {
 
     public static final DeferredItem<Item> GEAR = ITEMS.register("wooden_gear",
             () -> new Item(new Item.Properties()));
-
+    public static final DeferredItem<Item> MESH = ITEMS.register("mesh",
+            ()-> new Item(new Item.Properties()));
 
     public  static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

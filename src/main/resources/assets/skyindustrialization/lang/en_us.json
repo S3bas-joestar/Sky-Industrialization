@@ -1,5 +1,8 @@
 {
-  "item.skyindustrialization.wooden_gear": "Wooden Gear"
+  "item.skyindustrialization.wooden_gear": "Wooden Gear",
+  "item.skyindustrialization.mesh": "Mesh",
+
+  "block.skyindustrialization.sluice_box": "Sluice Box"
 
 
 }

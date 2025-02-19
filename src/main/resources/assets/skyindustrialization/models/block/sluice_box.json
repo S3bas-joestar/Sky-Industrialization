@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "skyindustrialization:block/sluice_bottom_texture",
+    "up": "skyindustrialization:block/sluice_top_texture",
+    "north": "skyindustrialization:block/sluice_side_texture",
+    "south": "skyindustrialization:block/sluice_side_texture",
+    "west": "skyindustrialization:block/sluice_side_texture",
+    "east": "skyindustrialization:block/sluice_side_texture"
+  }
+}
